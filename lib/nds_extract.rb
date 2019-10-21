@@ -32,6 +32,7 @@ end
     director_list[4] => directors_gross[4],
     director_list[5] => directors_gross[5],
     director_list[6] => directors_gross[6],
+    director_list[7] => directors_gross[7]
 
   }
   #
