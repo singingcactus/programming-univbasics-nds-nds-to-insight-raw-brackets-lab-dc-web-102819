@@ -7,7 +7,7 @@ director_list = []
 directors_gross = []
 
 while director_index < directors_database.length do
-  director_list[director_index] << directors_database[director_index][:name]
+  director_list[director_index] = directors_database[director_index][:name]
 
   directors_gross[director_index] = 0
   film_index = 0
