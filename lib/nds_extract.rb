@@ -25,13 +25,13 @@ end
   # The Hash result be full of things like "Jean-Pierre Jeunet" => "222312123123"
   result = {
 
-    director_list[0] => directors_gross[0]
-    director_list[1] => directors_gross[1]
-    director_list[2] => directors_gross[2]
-    director_list[3] => directors_gross[3]
-    director_list[4] => directors_gross[4]
-    director_list[5] => directors_gross[5]
-    director_list[6] => directors_gross[6]
+    director_list[0] => directors_gross[0],
+    director_list[1] => directors_gross[1],
+    director_list[2] => directors_gross[2],
+    director_list[3] => directors_gross[3],
+    director_list[4] => directors_gross[4],
+    director_list[5] => directors_gross[5],
+    director_list[6] => directors_gross[6],
 
   }
   #
